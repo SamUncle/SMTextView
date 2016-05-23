@@ -1,1 +1,2 @@
 # SMTextView
+这是根据前人的demo总结的一点点小知识，有两个demo可供参考，其中SMTextView是自定义的TextView
